@@ -5,6 +5,6 @@
 3. Membaca File
 ![image](https://github.com/IsmedQalyubi/6.Python-6/blob/main/membaca%20file.PNG) 
 4. Menulis File
-![image](
+![image](https://github.com/IsmedQalyubi/6.Python-6/blob/main/menulis%20file.PNG) 
 Hasil:
 ![image](
