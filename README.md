@@ -3,7 +3,7 @@
 2. General Exception
 ![image](https://github.com/IsmedQalyubi/6.Python-6/blob/main/general%20exception.PNG) 
 3. Membaca File
-![image](
+![image](https://github.com/IsmedQalyubi/6.Python-6/blob/main/membaca%20file.PNG) 
 4. Menulis File
 ![image](
 Hasil:
